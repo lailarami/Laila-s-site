@@ -46,7 +46,7 @@ header {
 }
 
 .menu a:hover {
-    background-color: rgb(30, 6, 117);
+    background-color: rgb(236, 79, 202);
     color: white;
 }
 
@@ -117,7 +117,7 @@ header {
 }
 
 .card-button:hover {
-    background-color: #e54d93;
+    background-color: #4362f0;
 }
 
 .card-badge {
